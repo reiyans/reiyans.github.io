@@ -2,9 +2,9 @@
 # title: カードのタイトル
 # description: 1〜2行程度の説明
 # url: 公開先のURL（別リポジトリのGitHub Pagesなど）
-- title: "Project A"
-  description: "ここにツールの説明を記入してください。"
-  url: "#"
+- title: "Salesforce Dummy Data Generator"
+  description: "Chrome拡張機能「Salesforce Inspector Reloaded」の「Show all」からコピーしたフィールド情報をもとに、ダミーデータを生成するツールです。"
+  url: "https://reiyans.github.io/Salesforce-dummy-data-generator/"
 - title: "Project B"
   description: "ここにツールの説明を記入してください。"
   url: "#"
