@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "初投稿"
 date: 2025-08-21 12:00:00 +0900
 categories: [ブログ, 技術]

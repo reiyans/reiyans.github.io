@@ -1,4 +1,5 @@
-title: "reiyans.github.io"
-description: "ブログスタイルで専門知識や技術情報を共有します。"
+title: "reiyans"
+description: "個人のポートフォリオサイトです。自己紹介、制作したWebツール、技術ブログを掲載しています。"
 lang: ja-JP
 theme: jekyll-theme-tactile
+permalink: /blog/:year/:month/:day/:title/
