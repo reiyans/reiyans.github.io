@@ -1,10 +1,13 @@
 ---
-layout: home
-title: "ようこそ"
+layout: default
+title: "ホーム"
 ---
 
-# ようこそ
+# reiyans
 
-これは私のポートフォリオサイトです。ここでは専門知識や技術ブログを投稿していきます。
+エンジニアとして、技術的な学びやちょっとしたWebツールの制作を続けています。
+このサイトでは、自己紹介・制作物・技術ブログをまとめています。
 
-![画像挿入テスト用の犬のフリー画像](assets/images/dog.jpeg)
+- [About](/about/) — 自己紹介
+- [Projects](/projects/) — 制作したWebツール
+- [Blog](/blog/) — 技術ブログ
