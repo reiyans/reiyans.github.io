@@ -90,6 +90,33 @@ body {
   opacity: 0.8;
 }
 
+.blog-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.blog-header h1 {
+  margin: 0;
+}
+
+.new-post-btn {
+  width: 36px;
+  height: 36px;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  background: transparent;
+  color: inherit;
+  font-size: 1.4em;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.new-post-btn:hover {
+  opacity: 0.8;
+}
+
 .blog-list {
   list-style: none;
   padding: 0;
